@@ -1,0 +1,225 @@
+region_of_residence,country_of_residence,purpose,visits,spending,nights
+North America,Canada,Business,78000,125,545000
+North America,Canada,Holiday,363000,405,2787000
+North America,Canada,Visiting Friends and Relatives,395000,297,4638000
+North America,Canada,Miscellaneous,108000,64,737000
+North America,United States,Business,818000,1365,4516000
+North America,United States,Holiday,2876000,4236,19136000
+North America,United States,Visiting Friends and Relatives,1345000,1118,14023000
+North America,United States,Miscellaneous,546000,546,5032000
+Europe,Austria,Business,50000,47,146000
+Europe,Austria,Holiday,174000,145,912000
+Europe,Austria,Visiting Friends and Relatives,99000,36,645000
+Europe,Austria,Miscellaneous,29000,59,254000
+Europe,Belgium,Business,179000,104,656000
+Europe,Belgium,Holiday,406000,272,1777000
+Europe,Belgium,Visiting Friends and Relatives,237000,89,982000
+Europe,Belgium,Miscellaneous,50000,41,178000
+Europe,Bulgaria,Business,81000,10,251000
+Europe,Bulgaria,Holiday,46000,20,178000
+Europe,Bulgaria,Visiting Friends and Relatives,61000,22,467000
+Europe,Bulgaria,Miscellaneous,5000,2,114000
+Europe,Czechia,Business,75000,29,232000
+Europe,Czechia,Holiday,128000,92,533000
+Europe,Czechia,Visiting Friends and Relatives,69000,24,485000
+Europe,Czechia,Miscellaneous,46000,33,191000
+Europe,Cyprus,Business,17000,23,118000
+Europe,Cyprus,Holiday,30000,32,229000
+Europe,Cyprus,Visiting Friends and Relatives,95000,76,1027000
+Europe,Cyprus,Miscellaneous,23000,9,694000
+Europe,Denmark,Business,129000,90,469000
+Europe,Denmark,Holiday,295000,226,1227000
+Europe,Denmark,Visiting Friends and Relatives,185000,90,1469000
+Europe,Denmark,Miscellaneous,50000,25,120000
+Europe,Finland,Business,45000,33,179000
+Europe,Finland,Holiday,76000,53,321000
+Europe,Finland,Visiting Friends and Relatives,40000,22,391000
+Europe,Finland,Miscellaneous,15000,14,50000
+Europe,France,Business,622000,367,1894000
+Europe,France,Holiday,1586000,988,7163000
+Europe,France,Visiting Friends and Relatives,1237000,428,7776000
+Europe,France,Miscellaneous,166000,188,1836000
+Europe,Germany,Business,573000,361,2106000
+Europe,Germany,Holiday,1651000,1238,10563000
+Europe,Germany,Visiting Friends and Relatives,950000,367,6170000
+Europe,Germany,Miscellaneous,167000,126,1525000
+Europe,Greece,Business,59000,73,292000
+Europe,Greece,Holiday,92000,67,483000
+Europe,Greece,Visiting Friends and Relatives,102000,71,1142000
+Europe,Greece,Miscellaneous,15000,17,141000
+Europe,Hungary,Business,56000,19,390000
+Europe,Hungary,Holiday,102000,42,397000
+Europe,Hungary,Visiting Friends and Relatives,98000,29,1155000
+Europe,Hungary,Miscellaneous,8000,4,52000
+Europe,Republic of Ireland,Business,497000,215,1148000
+Europe,Republic of Ireland,Holiday,774000,329,2360000
+Europe,Republic of Ireland,Visiting Friends and Relatives,1281000,349,5545000
+Europe,Republic of Ireland,Miscellaneous,386000,154,811000
+Europe,Italy,Business,266000,168,1005000
+Europe,Italy,Holiday,883000,498,4223000
+Europe,Italy,Visiting Friends and Relatives,599000,261,4419000
+Europe,Italy,Miscellaneous,122000,174,1879000
+Europe,Lithuania,Business,30000,8,77000
+Europe,Lithuania,Holiday,52000,19,396000
+Europe,Lithuania,Visiting Friends and Relatives,89000,23,1046000
+Europe,Lithuania,Miscellaneous,7000,4,50000
+Europe,Luxembourg,Business,26000,24,56000
+Europe,Luxembourg,Holiday,41000,30,133000
+Europe,Luxembourg,Visiting Friends and Relatives,41000,17,292000
+Europe,Luxembourg,Miscellaneous,9000,12,49000
+Europe,Malta,Business,15000,20,278000
+Europe,Malta,Holiday,51000,34,244000
+Europe,Malta,Visiting Friends and Relatives,64000,24,351000
+Europe,Malta,Miscellaneous,10000,3,86000
+Europe,Netherlands,Business,425000,238,1095000
+Europe,Netherlands,Holiday,895000,668,5237000
+Europe,Netherlands,Visiting Friends and Relatives,536000,200,3153000
+Europe,Netherlands,Miscellaneous,111000,65,467000
+Europe,Norway,Business,99000,89,374000
+Europe,Norway,Holiday,239000,195,959000
+Europe,Norway,Visiting Friends and Relatives,183000,89,1024000
+Europe,Norway,Miscellaneous,102000,99,586000
+Europe,Poland,Business,470000,86,1411000
+Europe,Poland,Holiday,368000,156,1509000
+Europe,Poland,Visiting Friends and Relatives,563000,122,3975000
+Europe,Poland,Miscellaneous,52000,25,345000
+Europe,Portugal,Business,82000,53,318000
+Europe,Portugal,Holiday,154000,89,707000
+Europe,Portugal,Visiting Friends and Relatives,279000,126,2038000
+Europe,Portugal,Miscellaneous,32000,40,194000
+Europe,Romania,Business,283000,70,1281000
+Europe,Romania,Holiday,165000,85,914000
+Europe,Romania,Visiting Friends and Relatives,246000,88,2542000
+Europe,Romania,Miscellaneous,12000,15,41000
+Europe,Russia,Business,12000,2,13000
+Europe,Russia,Holiday,10000,17,91000
+Europe,Russia,Visiting Friends and Relatives,18000,13,164000
+Europe,Russia,Miscellaneous,NULL,NULL,NULL
+Europe,Slovakia,Business,25000,14,92000
+Europe,Slovakia,Holiday,37000,25,197000
+Europe,Slovakia,Visiting Friends and Relatives,29000,13,347000
+Europe,Slovakia,Miscellaneous,9000,16,216000
+Europe,Spain,Business,432000,271,2449000
+Europe,Spain,Holiday,979000,543,4534000
+Europe,Spain,Visiting Friends and Relatives,921000,346,7491000
+Europe,Spain,Miscellaneous,227000,205,1927000
+Europe,Sweden,Business,125000,82,390000
+Europe,Sweden,Holiday,229000,201,1075000
+Europe,Sweden,Visiting Friends and Relatives,224000,87,1221000
+Europe,Sweden,Miscellaneous,35000,30,233000
+Europe,Switzerland,Business,153000,151,579000
+Europe,Switzerland,Holiday,379000,314,2116000
+Europe,Switzerland,Visiting Friends and Relatives,268000,131,1627000
+Europe,Switzerland,Miscellaneous,49000,47,393000
+Europe,Turkey,Business,65000,90,420000
+Europe,Turkey,Holiday,99000,87,590000
+Europe,Turkey,Visiting Friends and Relatives,131000,131,1287000
+Europe,Turkey,Miscellaneous,28000,74,1286000
+Other Countries,Egypt,Business,8000,23,168000
+Other Countries,Egypt,Holiday,19000,15,209000
+Other Countries,Egypt,Visiting Friends and Relatives,17000,10,228000
+Other Countries,Egypt,Miscellaneous,2000,4,121000
+Other Countries,Morocco,Business,3000,2,6000
+Other Countries,Morocco,Holiday,9000,15,73000
+Other Countries,Morocco,Visiting Friends and Relatives,19000,19,118000
+Other Countries,Morocco,Miscellaneous,NULL,NULL,NULL
+Other Countries,Tunisia,Business,NULL,NULL,NULL
+Other Countries,Tunisia,Holiday,NULL,NULL,NULL
+Other Countries,Tunisia,Visiting Friends and Relatives,8000,5,68000
+Other Countries,Tunisia,Miscellaneous,NULL,NULL,NULL
+Other Countries,Other North Africa,Business,5000,7,44000
+Other Countries,Other North Africa,Holiday,5000,15,32000
+Other Countries,Other North Africa,Visiting Friends and Relatives,3000,NULL,17000
+Other Countries,Other North Africa,Miscellaneous,NULL,NULL,NULL
+Other Countries,South Africa,Business,23000,51,392000
+Other Countries,South Africa,Holiday,29000,32,288000
+Other Countries,South Africa,Visiting Friends and Relatives,106000,96,2118000
+Other Countries,South Africa,Miscellaneous,16000,24,98000
+Other Countries,Nigeria,Business,21000,25,123000
+Other Countries,Nigeria,Holiday,35000,57,552000
+Other Countries,Nigeria,Visiting Friends and Relatives,100000,86,2806000
+Other Countries,Nigeria,Miscellaneous,10000,10,63000
+Other Countries,Other Africa,Business,26000,47,482000
+Other Countries,Other Africa,Holiday,25000,38,228000
+Other Countries,Other Africa,Visiting Friends and Relatives,82000,75,1619000
+Other Countries,Other Africa,Miscellaneous,14000,37,368000
+Other Countries,Israel,Business,35000,49,239000
+Other Countries,Israel,Holiday,63000,68,432000
+Other Countries,Israel,Visiting Friends and Relatives,63000,38,748000
+Other Countries,Israel,Miscellaneous,19000,28,68000
+Other Countries,United Arab Emirates,Business,51000,88,260000
+Other Countries,United Arab Emirates,Holiday,103000,208,730000
+Other Countries,United Arab Emirates,Visiting Friends and Relatives,193000,228,2078000
+Other Countries,United Arab Emirates,Miscellaneous,27000,90,279000
+Other Countries,Other Middle East,Business,91000,213,864000
+Other Countries,Other Middle East,Holiday,338000,861,3130000
+Other Countries,Other Middle East,Visiting Friends and Relatives,242000,478,3268000
+Other Countries,Other Middle East,Miscellaneous,59000,160,1559000
+Other Countries,Hong Kong (China),Business,14000,35,82000
+Other Countries,Hong Kong (China),Holiday,60000,76,724000
+Other Countries,Hong Kong (China),Visiting Friends and Relatives,85000,109,994000
+Other Countries,Hong Kong (China),Miscellaneous,11000,36,311000
+Other Countries,Other China,Business,72000,138,579000
+Other Countries,Other China,Holiday,210000,298,1919000
+Other Countries,Other China,Visiting Friends and Relatives,146000,202,2299000
+Other Countries,Other China,Miscellaneous,76000,135,2170000
+Other Countries,India,Business,130000,290,1565000
+Other Countries,India,Holiday,110000,136,1188000
+Other Countries,India,Visiting Friends and Relatives,307000,226,10982000
+Other Countries,India,Miscellaneous,56000,154,3254000
+Other Countries,Japan,Business,58000,88,350000
+Other Countries,Japan,Holiday,97000,78,601000
+Other Countries,Japan,Visiting Friends and Relatives,49000,29,618000
+Other Countries,Japan,Miscellaneous,22000,52,271000
+Other Countries,Pakistan,Business,9000,22,97000
+Other Countries,Pakistan,Holiday,11000,14,85000
+Other Countries,Pakistan,Visiting Friends and Relatives,51000,42,1220000
+Other Countries,Pakistan,Miscellaneous,2000,1,95000
+Other Countries,Sri Lanka,Business,NULL,NULL,NULL
+Other Countries,Sri Lanka,Holiday,3000,3,21000
+Other Countries,Sri Lanka,Visiting Friends and Relatives,13000,5,197000
+Other Countries,Sri Lanka,Miscellaneous,2000,NULL,2000
+Other Countries,Thailand,Business,3000,3,16000
+Other Countries,Thailand,Holiday,29000,50,187000
+Other Countries,Thailand,Visiting Friends and Relatives,28000,58,601000
+Other Countries,Thailand,Miscellaneous,12000,20,430000
+Other Countries,Other Asia,Business,108000,195,1245000
+Other Countries,Other Asia,Holiday,273000,383,2737000
+Other Countries,Other Asia,Visiting Friends and Relatives,185000,156,3856000
+Other Countries,Other Asia,Miscellaneous,60000,80,976000
+Other Countries,Australia,Business,56000,148,1136000
+Other Countries,Australia,Holiday,511000,768,4995000
+Other Countries,Australia,Visiting Friends and Relatives,592000,677,8968000
+Other Countries,Australia,Miscellaneous,68000,73,402000
+Other Countries,New Zealand,Business,9000,28,145000
+Other Countries,New Zealand,Holiday,89000,140,1127000
+Other Countries,New Zealand,Visiting Friends and Relatives,172000,180,3351000
+Other Countries,New Zealand,Miscellaneous,23000,27,396000
+Other Countries,Barbados,Business,5000,2,22000
+Other Countries,Barbados,Holiday,3000,6,47000
+Other Countries,Barbados,Visiting Friends and Relatives,3000,1,27000
+Other Countries,Barbados,Miscellaneous,2000,NULL,2000
+Other Countries,Jamaica,Business,NULL,NULL,NULL
+Other Countries,Jamaica,Holiday,NULL,NULL,NULL
+Other Countries,Jamaica,Visiting Friends and Relatives,9000,8,282000
+Other Countries,Jamaica,Miscellaneous,NULL,NULL,NULL
+Other Countries,Other Caribbean,Business,6000,11,30000
+Other Countries,Other Caribbean,Holiday,24000,45,224000
+Other Countries,Other Caribbean,Visiting Friends and Relatives,50000,34,734000
+Other Countries,Other Caribbean,Miscellaneous,16000,24,143000
+Other Countries,Brazil,Business,26000,35,209000
+Other Countries,Brazil,Holiday,174000,150,1092000
+Other Countries,Brazil,Visiting Friends and Relatives,71000,60,1290000
+Other Countries,Brazil,Miscellaneous,40000,64,703000
+Other Countries,Mexico,Business,16000,26,205000
+Other Countries,Mexico,Holiday,115000,103,509000
+Other Countries,Mexico,Visiting Friends and Relatives,30000,28,745000
+Other Countries,Mexico,Miscellaneous,24000,35,448000
+Other Countries,South and Central America,Business,22000,31,98000
+Other Countries,South and Central America,Holiday,207000,211,1532000
+Other Countries,South and Central America,Visiting Friends and Relatives,81000,66,1250000
+Other Countries,South and Central America,Miscellaneous,26000,48,302000
+Other Countries,Other Countries,Business,805000,1566,8444000
+Other Countries,Other Countries,Holiday,2543000,3774,22677000
+Other Countries,Other Countries,Visiting Friends and Relatives,2711000,2920,50590000
+Other Countries,Other Countries,Miscellaneous,590000,1102,12497000
